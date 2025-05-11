@@ -38,3 +38,7 @@ Exemplo de resposta:
     "locais" : "Ermos Fúngicos"
   }
 ]
+```
+## 🔨 Ferramentas usadas
+* Pyhton + Flask
+* Postman
